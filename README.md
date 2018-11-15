@@ -1,6 +1,7 @@
 # Proyecto Tecnologías WEB
 ## Configuración de Servidor:
-_Dominio: http://galardonados2018.x10host.com_
+_Dominio: http://galardonados2018.x10host.com
+
 _Host: ftp.galardonados2018.x10host.com
 _Port: 21
 _User:JoaksIPN@galardonados2018.x10host.com
