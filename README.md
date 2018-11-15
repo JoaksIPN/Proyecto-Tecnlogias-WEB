@@ -10,13 +10,13 @@ User:JoaksIPN@galardonados2018.x10host.com
 
 Password: proyectoweb
 
-# Modulos del sitema:
-_Eviar correos con invitación digital.
-_Envio de notificaciones a galardonados vía correo.
-_Actualizar información de galardonados.
-_Pase de lista de galardonados por medio de escaneo del código QR de la invitación digital.
-_Genración de lista de asitencia.
-_Generación de reconocimientos.
-_Generación de gráficas de asistencia según galardon y unidad académica. 
+## Modulos del sitema:
+Eviar correos con invitación digital.
+Envio de notificaciones a galardonados vía correo.
+Actualizar información de galardonados.
+Pase de lista de galardonados por medio de escaneo del código QR de la invitación digital.
+Genración de lista de asitencia.
+Generación de reconocimientos.
+Generación de gráficas de asistencia según galardon y unidad académica. 
 
 
