@@ -10,7 +10,7 @@ User:JoaksIPN@galardonados2018.x10host.com
 
 Password: proyectoweb
 
-## Modulos del sitema:
+# Modulos del sitema:
 Eviar correos con invitación digital.
 Envio de notificaciones a galardonados vía correo.
 Actualizar información de galardonados.
