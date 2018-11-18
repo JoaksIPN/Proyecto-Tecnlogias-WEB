@@ -18,10 +18,15 @@ Consta de las siguientes interfaces:
 ### 1. Formulario de registro de nuevos usuarios.
        Nombre:(Campo de Texto) 
        Número de Empleado: (Campo de Texto)
-       Tipo de Usuario: (Desplegable: Edecan, Archivador, Maestro de Ceremonias).
+       E-mail: (Campo de Texto)
+       Tipo Acceso: (ChekBox: Edecan, Archivador, Maestro de Ceremonias).
        Dar de Alta(Boton)
        
-       
+## Galardonados (Administrador)
+
+## Evento (Administrador, Edecan (Ciertos Modulos), Archivador(Ciertos Modulos), Maestro de Ceremonias (Ciertos Modulos))
+
+
 ## Eviar correos con invitación digital.
 ## Envio de notificaciones a galardonados vía correo.
 ## Actualizar información de galardonados.
