@@ -50,7 +50,25 @@ Consta de las siguientes interfaces:
        (? En caso de seleccionar varios que redireccione a otra página en caso de ser notificación para poder escribir como si fuera un correo ?)
        
 ## Evento (Administrador, Edecan (Ciertos Modulos), Archivador(Ciertos Modulos), Maestro de Ceremonias (Ciertos Modulos))
+Descripción: En este módulo se llevará acabo el registro de asistencia así como el cierre de este, la generación del speech, gráficas y reconocimientos. Contará con un menú desplegable o continuo en la barra superior derecha.
 
+Consta de las siguientes interfaces:
+### 1. Paso de asistencia
+       No. Asiento: (Campo de Texto)             Asistio(Boton)
+       Lector QR
+       
+### 2. Generar Speech
+       Si se le da click a la opción de Speech se redireccionara a un PDF
+
+### 3. Generar Gráficas
+       Mandara a una página Web que mostrará las gráficas con un botón de Generar PDF y otro para Generar reportes el cual redireccionara a otra página Web con la opción de Generar PDF
+
+### 4. Generar reconocimientos
+       Generar todos(Boton)
+       Generar uno en especifico(Boton) En caso de que se haya perdido uno o su impresión saliera mal
+              Redirecciona a página:
+                     RFC: (Campo de Texto)              Genera(Botón)
+                                                        Imprimir(Botón)
 
 ## Eviar correos con invitación digital.
 ## Envio de notificaciones a galardonados vía correo.
