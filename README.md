@@ -17,6 +17,8 @@ Descripción: El modulo consiste en dar de alta nuevos usuarios, tras darlo de a
 Consta de las siguientes interfaces:
 ### 1. Formulario de registro de nuevos usuarios.
        Nombre:(Campo de Texto) 
+       Apellido Paterno: (Campo de Texto)
+       Apellido Materno: (Campo de Texto)
        Número de Empleado: (Campo de Texto)
        E-mail: (Campo de Texto)
        Tipo Acceso: (ChekBox: Edecan, Archivador, Maestro de Ceremonias).
@@ -30,6 +32,8 @@ Existiran dos operaciones en este formulario, la opción de desplegar una lista 
 Al dar la opción de actualizar datos aparecera el siguiente formulario. 
 
         Nombre:(Campo de Texto) 
+        Apellido Paterno: (Campo de Texto)
+        Apellido Materno: (Campo de Texto)
         Número de Empleado: (Campo de Texto)
         E-mail: (Campo de Texto)
         Tipo Acceso: (ChekBox: Edecan, Archivador, Maestro de Ceremonias).
@@ -46,6 +50,8 @@ Al dar la opción de actualizar datos aparecera el siguiente formulario.
  Al dar la opción de actualizar datos aparecera el siguiente formulario. 
 
         Nombre:(Campo de Texto) 
+        Apellido Paterno: (Campo de Texto)
+        Apellido Materno: (Campo de Texto)
         Número de Empleado: (Campo de Texto)
         E-mail: (Campo de Texto)
         Tipo Acceso: (ChekBox: Edecan, Archivador, Maestro de Ceremonias).
@@ -70,6 +76,8 @@ La siguiente opción consiste en buscar a un galardonado por RFC, el formulario 
 
         RFC:(Campo de Texto) 
         Nombre:(Campo de Texto) 
+        Apellido Paterno: (Campo de Texto)
+        Apellido Materno: (Campo de Texto)
         Unidad Académica: (Campo de Texto)
         E-mail: (Campo de Texto)
         Observaciones:
@@ -95,6 +103,8 @@ La selección permitirá enviar la misma notificaciones a los seleccionados o en
 
         RFC:(Campo de Texto) 
         Nombre:(Campo de Texto) 
+        Apellido Paterno: (Campo de Texto)
+        Apellido Materno: (Campo de Texto)
         Unidad Académica: (Campo de Texto)
         E-mail: (Campo de Texto)
         Observaciones:
