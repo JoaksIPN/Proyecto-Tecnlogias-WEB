@@ -75,7 +75,7 @@ La siguiente opción consiste en buscar a un galardonado por RFC, el formulario 
  Al dar la opción de actualizar datos aparecera el siguiente formulario. 
 
         RFC:(Campo de Texto) 
-        Nombre:(Campo de Texto) 
+        Nombre:(Campo de Texto)
         Apellido Paterno: (Campo de Texto)
         Apellido Materno: (Campo de Texto)
         Unidad Académica: (Campo de Texto)
@@ -94,7 +94,7 @@ Apareceran en una lista despelgable todos los galardonados almacenados en  la ba
 
        Seleccionar todos (Boton)
        
-        RFC, Nombre, Unidad Académica, E-mail, Galardon, Observaciones,  Asiento Asignado, Representante,  Actualizar Datos (Boton) Enviar notificación(Botón), Enviar Invitación(Botón), CheckBox
+        RFC, Nombre,Apellido Paterno,Apellido Materno Unidad Académica, E-mail, Galardon, Observaciones,  Asiento Asignado, Representante,  Actualizar Datos (Boton) Enviar notificación(Botón), Enviar Invitación(Botón), CheckBox
         
         
 La selección permitirá enviar la misma notificaciones a los seleccionados o enviar su invitación.
